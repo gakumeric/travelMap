@@ -1,0 +1,143 @@
+PODS:
+  - BubbleTransition (3.1.1)
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
+  - Cosmos (17.0.0)
+  - DZNEmptyDataSet (1.8.1)
+  - Firebase/AdMob (5.14.0):
+    - Firebase/Core
+    - Google-Mobile-Ads-SDK (~> 7.36)
+  - Firebase/Core (5.14.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 5.4.0)
+  - Firebase/CoreOnly (5.14.0):
+    - FirebaseCore (= 5.1.9)
+  - FirebaseAnalytics (5.4.0):
+    - FirebaseCore (~> 5.1)
+    - FirebaseInstanceID (~> 3.3)
+    - GoogleAppMeasurement (= 5.4.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (5.1.9):
+    - GoogleUtilities/Logger (~> 5.2)
+  - FirebaseInstanceID (3.3.0):
+    - FirebaseCore (~> 5.1)
+    - GoogleUtilities/Environment (~> 5.3)
+    - GoogleUtilities/UserDefaults (~> 5.3)
+  - Google-Mobile-Ads-SDK (7.37.0)
+  - GoogleAppMeasurement (5.4.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - GoogleUtilities/AppDelegateSwizzler (5.3.6):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (5.3.6)
+  - GoogleUtilities/Logger (5.3.6):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (5.3.6):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (5.3.6):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (5.3.6)"
+  - GoogleUtilities/Reachability (5.3.6):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (5.3.6):
+    - GoogleUtilities/Logger
+  - Hero (1.4.0)
+  - INTULocationManager (4.3.2)
+  - lottie-ios (2.5.2)
+  - LTMorphingLabel (0.5.9)
+  - nanopb (0.3.901):
+    - nanopb/decode (= 0.3.901)
+    - nanopb/encode (= 0.3.901)
+  - nanopb/decode (0.3.901)
+  - nanopb/encode (0.3.901)
+  - Realm (3.12.0):
+    - Realm/Headers (= 3.12.0)
+  - Realm/Headers (3.12.0)
+  - RealmSwift (3.12.0):
+    - Realm (= 3.12.0)
+  - SwiftReorder (6.0.1)
+  - SwiftShareBubbles (1.1.0)
+  - SwiftyOnboard (1.3.8)
+  - TextFieldEffects (1.5.1)
+
+DEPENDENCIES:
+  - BubbleTransition
+  - Charts
+  - Cosmos
+  - DZNEmptyDataSet
+  - Firebase/AdMob
+  - Google-Mobile-Ads-SDK
+  - Hero
+  - INTULocationManager
+  - lottie-ios
+  - LTMorphingLabel
+  - RealmSwift
+  - SwiftReorder
+  - SwiftShareBubbles
+  - SwiftyOnboard
+  - TextFieldEffects
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BubbleTransition
+    - Charts
+    - Cosmos
+    - DZNEmptyDataSet
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - Google-Mobile-Ads-SDK
+    - GoogleAppMeasurement
+    - GoogleUtilities
+    - Hero
+    - INTULocationManager
+    - lottie-ios
+    - LTMorphingLabel
+    - nanopb
+    - Realm
+    - RealmSwift
+    - SwiftReorder
+    - SwiftShareBubbles
+    - SwiftyOnboard
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  BubbleTransition: 5676e5102b0e26c3193adc1da404fb5bb8144f0c
+  Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
+  Cosmos: 309e489f21ffc91a1eeecfebef7f817cd2fcfba6
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Firebase: 963d5685fae888a56d6d4d9cfce6b9c976958798
+  FirebaseAnalytics: c06f9d70577d79074214700a71fd5d39de5550fb
+  FirebaseCore: 8f49b70f57ab5cbb032ef41d64992ded21606459
+  FirebaseInstanceID: e2fa4cb35ef5558c200f7f0ad8a53e212215f93e
+  Google-Mobile-Ads-SDK: d028682d7450749a1955679da050eaf70d997b3e
+  GoogleAppMeasurement: 98b71f5e04142793729a5ef23e5b96651ff4b70f
+  GoogleUtilities: 95996bea7c7d9b8fb811b7507669a4a8762f80c7
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  INTULocationManager: e5dc524611b0cd582f473bc56cc8c389adb2f338
+  lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
+  LTMorphingLabel: e6047354486aa4ba52d36ccc40be8874b50e1ef1
+  nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
+  Realm: cdaef23c4ddb36ab1ddffed23f5a7f3332fc5585
+  RealmSwift: 5576324033f0aa5ef1e0a839a3da2281dff47a7f
+  SwiftReorder: b59368b978c9826116147672ff1f59a2d4dd9110
+  SwiftShareBubbles: fbfd2579430e02e99d4bd7e1bf57b961f4be4a7c
+  SwiftyOnboard: de60e90c2af23dd61b01ec0c6a8d0be3370f857b
+  TextFieldEffects: 7d372f58aeaf9acd9626bbf962680aef926b085d
+
+PODFILE CHECKSUM: 000600d986c9d74eaeaa822b0b088bf560df96c1
+
+COCOAPODS: 1.5.3
